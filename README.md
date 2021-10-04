@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alexandre Debortoli de Souza
+## Hey! I am Alexandre Debortoli de Souza
 
 - 🎓 Computer Engineering student at University of Florida and Univali
 - 🌱 Currently studying object-oriented programming with C++
