@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexandredebortoli
+- 👀 I’m interested in computer engineering
+- 🌱 I’m currently learning object-oriented programming with C++
+- 💞️ I’m looking to collaborate on internships
+- 📫 How to reach me debortolidesouzaa@gmail.com
