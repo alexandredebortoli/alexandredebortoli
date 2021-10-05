@@ -2,7 +2,7 @@
 
 - 🎓 Computer Engineering student at University of Florida and Univali
 - 🌱 Currently studying object-oriented programming with C++
-- 💞️ Interested on internships and gaining experience
+- 💞️ Interested in internships and gaining experience
 - 📫 Reach me at:
 
 <div>
