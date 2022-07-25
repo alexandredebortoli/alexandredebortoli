@@ -1,6 +1,6 @@
 ## Hi👋, I'm Alexandre Debortoli de Souza
 
-- 🎓 Computer Engineering student at University of Florida and Univali
+- 🎓 Computer Engineering student at Univali
 - 🌱 Currently studying object-oriented programming with C++ and Java
 - 💞️ Interested in internships and gaining experience
 - 📫 Reach me at:
