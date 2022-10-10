@@ -1,12 +1,12 @@
 ## Hi👋, I'm Alexandre Debortoli de Souza
 
 - 🎓 Computer Engineering student at Univali
-- 🌱 Currently studying object-oriented programming with C++ and Java
+- 🌱 Currently studying object-oriented programming with Java and data structure with C++
 - 💞️ Interested in internships and gaining experience
 - 📫 Reach me at:
 
 <div>
-    <a href = "mailto:debortolidesouzaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:souza.alexandre@edu.univali.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/alexandredds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
