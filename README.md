@@ -2,10 +2,9 @@
 
 **`Digital Craftsman (Developer/Student/Researcher)`**
 
-I'm a full-stack developer, full-time computer engineering student and college researcher from Brazil. All my personal coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Recently, I became an intern at a digital private pension fund Startup, where I work as a NestJS back-end developer. That said, currently in college I'm studying data structures with C++, object-oriented programming with Java and I'm also part of a computer-vision college research aimed at developing an algorithm capable of detecting human falls from video.
+I'm a full-stack developer and computer engineering student from Brazil, passionate about coding and problem-solving. Currently interning as a back-end software engineer at a digital private pension fund startup, I also engage in college research on computer vision algorithms for detecting human falls from video footage. My GitHub showcases my hands-on approach to solving real-life problems with code. Let's connect and collaborate within the tech community!
 
 <div>
-    <a href = "mailto:souza.alexandre@edu.univali.br"><img src="https://custom-icon-badges.demolab.com/badge/-GMAIL-red?style=for-the-badge&logo=mention&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/alexandredds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
