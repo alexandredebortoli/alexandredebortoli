@@ -2,7 +2,7 @@
 
 **`Software Engineer | Student | Researcher`**
 
-I'm a full-stack developer and computer engineering student from Brazil, passionate about coding and problem-solving. Currently positioned as a full-stack software engineer at [SAKS Global](https://saks.global/en/), a fintech startup specializing in solutions for Private Pension, Portability, and International Investment, serving clients in both Brazil and Latin America. I also engage in college research on computer vision algorithms for detecting human falls from video footage. My GitHub showcases my hands-on approach to solving real-life problems with code. Let's connect and collaborate within the tech community!
+I'm a full-stack developer and computer engineering student from Brazil, passionate about coding and problem-solving. Currently positioned as a full-stack software engineer at SAKS Global, a fintech startup specializing in solutions for Private Pension, Portability, and International Investment, serving clients in both Brazil and Latin America. I also engage in college research on computer vision algorithms for detecting human falls from video footage. My GitHub showcases my hands-on approach to solving real-life problems with code. Let's connect and collaborate within the tech community!
 
 ---
 
